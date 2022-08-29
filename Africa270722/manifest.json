@@ -1,0 +1,43 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Xenio - NEOBANKING",
+    "short_name": "XENIO",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "https://africa.xenio.in/",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "description": "NeoBanking at its best. Bank smarter with xenio",
+    "orientation": "portrait",
+    "related_applications": [{
+      "id": "com.xenio.in",
+      "platform": "chromeos_play"
+    }],
+    "android_package_name": "com.geefto.money",
+  "prefer_related_applications": true,
+    "icons": [
+        {
+            "src": "https://africa.xenio.in/assets/images/logounit.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+      "src": "https://africa.xenio.in/assets/images/logounit.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://africa.xenio.in/assets/images/logounit.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://africa.xenio.in/assets/images/logounit.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+    ],
+    "url": "https://africa.xenio.in"
+}

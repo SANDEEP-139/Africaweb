@@ -1,0 +1,103 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-15 05:47:51 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 05:47:51 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 05:47:54 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 05:47:54 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 05:48:07 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 05:48:07 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 05:48:18 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 05:48:18 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 05:48:26 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 05:48:26 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 05:48:27 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 05:48:27 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 06:39:14 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 06:39:14 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:15:51 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:15:51 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:15:55 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:15:55 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:16:13 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:16:13 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:16:31 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:16:31 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:16:32 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:16:32 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:16:36 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:16:36 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:16:56 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:16:56 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:16:57 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:16:57 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:17:09 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:17:09 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:17:52 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:17:52 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:18:12 --> Severity: Warning --> A non-numeric value encountered /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 157
+ERROR - 2022-03-15 07:18:12 --> Severity: Warning --> Division by zero /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 157
+ERROR - 2022-03-15 07:18:12 --> Severity: Warning --> Division by zero /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 158
+ERROR - 2022-03-15 07:18:12 --> Severity: Warning --> A non-numeric value encountered /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 157
+ERROR - 2022-03-15 07:18:12 --> Severity: Warning --> Division by zero /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 157
+ERROR - 2022-03-15 07:18:12 --> Severity: Warning --> Division by zero /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 158
+ERROR - 2022-03-15 07:18:23 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:18:23 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:18:23 --> Severity: Warning --> A non-numeric value encountered /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 157
+ERROR - 2022-03-15 07:18:23 --> Severity: Warning --> Division by zero /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 157
+ERROR - 2022-03-15 07:18:23 --> Severity: Warning --> Division by zero /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 158
+ERROR - 2022-03-15 07:18:56 --> Could not find the language line ""
+ERROR - 2022-03-15 07:18:56 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:18:56 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:19:12 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:19:12 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:19:17 --> Severity: Warning --> A non-numeric value encountered /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 157
+ERROR - 2022-03-15 07:19:17 --> Severity: Warning --> Division by zero /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 157
+ERROR - 2022-03-15 07:19:17 --> Severity: Warning --> Division by zero /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 158
+ERROR - 2022-03-15 07:19:20 --> Severity: Warning --> A non-numeric value encountered /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 157
+ERROR - 2022-03-15 07:19:20 --> Severity: Warning --> Division by zero /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 157
+ERROR - 2022-03-15 07:19:20 --> Severity: Warning --> Division by zero /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 158
+ERROR - 2022-03-15 07:19:20 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:19:20 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:19:39 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:19:39 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 07:20:27 --> Could not find the language line ""
+ERROR - 2022-03-15 07:20:27 --> Could not find the language line ""
+ERROR - 2022-03-15 07:20:27 --> Could not find the language line ""
+ERROR - 2022-03-15 07:20:27 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 07:20:27 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 11:56:32 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 11:56:32 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 11:56:35 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 11:56:35 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 11:57:05 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 11:57:05 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 11:57:28 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 11:57:28 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 11:57:44 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 11:57:44 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 11:57:56 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 11:57:56 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 14:28:19 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 14:28:19 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 14:28:21 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 14:28:21 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 14:28:38 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 14:28:38 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 14:29:11 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 14:29:11 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 15:41:04 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 15:41:04 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 15:41:06 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 15:41:06 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 15:41:17 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 15:41:17 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 15:41:21 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 15:41:21 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 15:41:24 --> Severity: Warning --> Division by zero /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 157
+ERROR - 2022-03-15 15:41:24 --> Severity: Warning --> Division by zero /home/u410391529/domains/africa.xenio.in/public_html/accounts/application/controllers/admin/Invoice.php 158
+ERROR - 2022-03-15 15:41:28 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 15:41:28 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 17:23:00 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 17:23:00 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-03-15 17:23:00 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-03-15 17:23:00 --> Could not find the language line "password-reset-msg"

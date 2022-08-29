@@ -1,0 +1,34 @@
+{
+	"description": "The CodeIgniter framework",
+	"name": "codeigniter/framework",
+	"type": "project",
+	"homepage": "https://codeigniter.com",
+	"license": "MIT",
+	"support": {
+		"forum": "http://forum.codeigniter.com/",
+		"wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
+		"slack": "https://codeigniterchat.slack.com",
+		"source": "https://github.com/bcit-ci/CodeIgniter"
+	},
+	"require": {
+		"php": ">=5.3.7",
+		"stripe/stripe-php": "^7.87",
+		"paypal/rest-api-sdk-php": "1.14.0",
+		"flutterwavedev/flutterwave-v3": "^1.0",
+ "block_io-php/block_io-php": "2.0.2",
+        "bitwasp/bitcoin": "dev-minimal"
+	},
+	"repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/doersf/bitcoin-php.git"
+        }
+        ],
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	},
+	"require-dev": {
+		"mikey179/vfsstream": "1.1.*",
+		"phpunit/phpunit": "4.* || 5.*"
+	}
+}

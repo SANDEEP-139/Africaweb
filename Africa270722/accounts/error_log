@@ -1,0 +1,10 @@
+[22-Aug-2021 15:28:47 America/New_York] Stripe Notice: Undefined property of Stripe\Checkout\Session instance: updated_at
+[22-Aug-2021 15:44:16 America/New_York] Stripe Notice: Undefined property of Stripe\Checkout\Session instance: updated_at
+[22-Aug-2021 15:49:01 America/New_York] Stripe Notice: Undefined property of Stripe\Checkout\Session instance: updated_at
+[22-Aug-2021 15:52:14 America/New_York] Stripe Notice: Undefined property of Stripe\Checkout\Session instance: updated_at
+[22-Aug-2021 15:52:56 America/New_York] Stripe Notice: Undefined property of Stripe\StripeObject instance: description
+[22-Aug-2021 15:55:34 America/New_York] Stripe Notice: Undefined property of Stripe\Checkout\Session instance: updated_at
+[22-Aug-2021 15:56:18 America/New_York] Stripe Notice: Undefined property of Stripe\StripeObject instance: description
+[23-Aug-2021 21:27:25 America/New_York] Stripe Notice: Undefined property of Stripe\Checkout\Session instance: updated_at
+[23-Aug-2021 21:28:42 America/New_York] Stripe Notice: Undefined property of Stripe\StripeObject instance: description
+[01-Mar-2022 14:23:59 UTC] Stripe Notice: Undefined property of Stripe\Checkout\Session instance: updated_at

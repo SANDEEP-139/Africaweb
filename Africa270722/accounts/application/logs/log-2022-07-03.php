@@ -1,0 +1,18 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-07-03 00:56:00 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-07-03 00:56:00 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-07-03 13:26:08 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-07-03 13:26:08 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-07-03 13:26:22 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-07-03 13:26:22 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-07-03 13:26:55 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-07-03 13:26:55 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-07-03 13:33:36 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-07-03 13:33:36 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-07-03 13:33:57 --> Could not find the language line "resourcess"
+ERROR - 2022-07-03 13:33:57 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-07-03 13:33:57 --> Could not find the language line "password-reset-msg"
+ERROR - 2022-07-03 13:34:10 --> Could not find the language line "resourcess"
+ERROR - 2022-07-03 13:34:10 --> Could not find the language line "valid-user-msg"
+ERROR - 2022-07-03 13:34:10 --> Could not find the language line "password-reset-msg"
